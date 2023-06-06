@@ -1,0 +1,4 @@
+{
+    "exec": "mpirun -np 1 quick.cuda.MPI",
+    "job": "DFT B3LYP GD3BJ BASIS=6-31G*"
+}
